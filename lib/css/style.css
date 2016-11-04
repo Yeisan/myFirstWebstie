@@ -1,0 +1,38 @@
+h1 {
+  color: rgba(125, 100, 0, 0.5);
+  font: 65px;
+  /*background-color: rgba(55, 100, 150, 0.95);;*/
+  margin: 10px;
+  padding: 20px;
+}
+
+/*h2{
+  font-size: 1.5em;
+  background-color: rgba(55, 100, 150, 0.95););;
+  margin:5px;
+  padding: 20px;
+}*/
+ul {
+  color: rgba(55, 100, 150, 0.95);
+  font:25px;
+  margin: 40px;
+  margin-top: 5px;
+  padding:5px;
+}
+
+li {
+  list-style: none;
+}
+
+body {
+  background: url("../../lib/images/lake.jpg")no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.boxModel {
+  background: pink;
+  padding: 50px;
+  border: solid black 5px;
+  margin: 50px;
+}
